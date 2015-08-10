@@ -20,7 +20,7 @@
 	"spm": {
 		"main": "js/dist/2sat.js"
 	},
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"keywords": [
 		"2",
 		"2SAT",
