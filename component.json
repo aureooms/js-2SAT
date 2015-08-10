@@ -1,0 +1,11 @@
+{
+	"main": "js/dist/2sat.js",
+	"description": "2-Satisfiability code bricks for JavaScript",
+	"version": "0.0.0",
+	"repo": "aureooms/js-2sat",
+	"name": "aureooms-js-2sat",
+	"license": "AGPL-3.0",
+	"scripts": [
+		"js/dist/2sat.js"
+	]
+}
