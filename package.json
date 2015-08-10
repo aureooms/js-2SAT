@@ -14,13 +14,13 @@
 		"doc": "./node_modules/.bin/groc"
 	},
 	"devDependencies": {
-		"aureooms-node-package": "^5.0.0"
+		"aureooms-node-package": "^5.0.2"
 	},
 	"main": "js/dist/2sat.js",
 	"spm": {
 		"main": "js/dist/2sat.js"
 	},
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"keywords": [
 		"2",
 		"2SAT",
