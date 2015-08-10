@@ -2,7 +2,7 @@
 	"main": "js/dist/2sat.js",
 	"homepage": "http://aureooms.github.io/js-2sat/",
 	"description": "2-Satisfiability code bricks for JavaScript",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"name": "aureooms-js-2sat",
 	"license": "AGPL-3.0",
 	"ignore": [
