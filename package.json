@@ -1,0 +1,62 @@
+{
+  "name": "aureooms-js-2sat",
+  "description": "2-Satisfiability code bricks for JavaScript",
+  "version": "0.0.3",
+  "author": "Aurélien Ooms <aurelien.ooms@gmail.com>",
+  "ava": {
+    "require": [
+      "babel-polyfill",
+      "babel-register"
+    ]
+  },
+  "babel": {
+    "presets": [
+      "env"
+    ],
+    "env": {
+      "development": {
+        "sourceMaps": "inline"
+      }
+    }
+  },
+  "bugs": {
+    "url": "https://github.com/aureooms/js-2sat/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "aureooms-js-array": "^4.0.0",
+    "aureooms-js-functools": "^2.0.3",
+    "aureooms-js-itertools": "^3.1.1",
+    "ava": "^0.17.0",
+    "babel-cli": "^6.22.2",
+    "babel-polyfill": "^6.22.0",
+    "babel-preset-env": "^1.1.8",
+    "codeclimate-test-reporter": "^0.4.0",
+    "coveralls": "^2.11.15",
+    "esdoc": "^0.5.2",
+    "nyc": "^10.1.2"
+  },
+  "homepage": "http://aureooms.github.io/js-2sat/",
+  "keywords": [
+    "2",
+    "2SAT",
+    "bricks",
+    "ender",
+    "javascript",
+    "js",
+    "satisfiability",
+    "two"
+  ],
+  "license": "AGPL-3.0",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aureooms/js-2sat.git"
+  },
+  "scripts": {
+    "build": "babel src -d lib",
+    "cover": "nyc --reporter=lcov npm test",
+    "prepublish": "npm run build",
+    "test": "ava ./test/src --concurrency 8"
+  }
+}
