@@ -1,7 +1,9 @@
-[js-2sat](http://aureooms.github.io/js-2sat)
+[@aureooms/js-2sat](https://aureooms.github.io/js-2sat)
 ==
 
 2-Satisfiability library for JavaScript.
+See [docs](https://aureooms.github.io/js-2sat).
+Parent is [@aureooms/js-algorithms](https://github.com/aureooms/js-algorithms).
 
 [![NPM license](http://img.shields.io/npm/l/aureooms-js-2sat.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-2sat/master/LICENSE)
 [![NPM version](http://img.shields.io/npm/v/aureooms-js-2sat.svg?style=flat)](https://www.npmjs.org/package/aureooms-js-2sat)
