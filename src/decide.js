@@ -1,5 +1,5 @@
 
-const decide = function ( formula , G ) {
+export function decide ( formula , G ) {
 
 	for ( let [ a , b ] of formula ) G.add_edges( [ -a , b ] , [ -b , a ] ) ;
 
@@ -11,6 +11,5 @@ const decide = function ( formula , G ) {
 
 	return true ;
 
-} ;
+}
 
-exports.decide = decide ;

@@ -9,7 +9,7 @@
  *
  */
 
-const verify = function ( formula , assignment ) {
+export function verify ( formula , assignment ) {
 
 	for ( let [ a , b ] of formula ) {
 
@@ -20,6 +20,5 @@ const verify = function ( formula , assignment ) {
 
 	return true ;
 
-} ;
+}
 
-exports.verify = verify ;
