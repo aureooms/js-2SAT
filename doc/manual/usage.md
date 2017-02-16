@@ -8,7 +8,7 @@ import 'babel-polyfill' ;
 
 Then
 ```js
-const 2sat = require( 'aureooms-js-2sat' ) ;
+const 2sat = require( '@aureooms/js-2sat' ) ;
 // or
-import 2sat from 'aureooms-js-2sat' ;
+import 2sat from '@aureooms/js-2sat' ;
 ```
