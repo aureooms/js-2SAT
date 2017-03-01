@@ -30,7 +30,7 @@
     "ava": "^0.18.2",
     "babel-cli": "^6.22.2",
     "babel-polyfill": "^6.22.0",
-    "babel-preset-env": "^1.1.8",
+    "babel-preset-env": "^1.1.11",
     "codeclimate-test-reporter": "^0.4.0",
     "coveralls": "^2.11.15",
     "esdoc": "^0.5.2",
