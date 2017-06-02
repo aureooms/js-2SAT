@@ -34,7 +34,7 @@
     "codeclimate-test-reporter": "^0.4.1",
     "coveralls": "^2.13.1",
     "esdoc": "^0.5.2",
-    "nyc": "^10.3.0"
+    "nyc": "^11.0.0"
   },
   "homepage": "http://aureooms.github.io/js-2sat/",
   "keywords": [
