@@ -20,7 +20,7 @@
     }
   },
   "bugs": {
-    "url": "https://github.com/aureooms/js-2sat/issues"
+    "url": "https://github.com/make-github-pseudonymous-again/js-2sat/issues"
   },
   "dependencies": {},
   "devDependencies": {
@@ -51,7 +51,7 @@
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aureooms/js-2sat.git"
+    "url": "https://github.com/make-github-pseudonymous-again/js-2sat.git"
   },
   "scripts": {
     "build": "babel src -d lib",
