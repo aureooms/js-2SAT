@@ -1,8 +1,8 @@
-[@aureooms/js-2sat](https://aureooms.github.io/js-2sat)
+[@aureooms/js-2sat](https://make-github-pseudonymous-again.github.io/js-2sat)
 ==
 
 2-Satisfiability library for JavaScript.
-See [docs](https://aureooms.github.io/js-2sat).
+See [docs](https://make-github-pseudonymous-again.github.io/js-2sat).
 Parent is [@aureooms/js-algorithms](https://github.com/aureooms/js-algorithms).
 
 [![License](https://img.shields.io/github/license/aureooms/js-2sat.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-2sat/master/LICENSE)
@@ -14,5 +14,5 @@ Parent is [@aureooms/js-algorithms](https://github.com/aureooms/js-algorithms).
 [![Code Climate](https://img.shields.io/codeclimate/github/aureooms/js-2sat.svg?style=flat)](https://codeclimate.com/github/aureooms/js-2sat)
 [![NPM downloads per month](https://img.shields.io/npm/dm/@aureooms/js-2sat.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-2sat)
 [![GitHub issues](https://img.shields.io/github/issues/aureooms/js-2sat.svg?style=flat)](https://github.com/aureooms/js-2sat/issues)
-[![Documentation](https://aureooms.github.io/js-2sat/badge.svg)](https://aureooms.github.io/js-2sat/source.html)
+[![Documentation](https://make-github-pseudonymous-again.github.io/js-2sat/badge.svg)](https://make-github-pseudonymous-again.github.io/js-2sat/source.html)
 
